@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="hhu_lib:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/hhu_lib_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="hhu_lib/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="hhu_lib" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
